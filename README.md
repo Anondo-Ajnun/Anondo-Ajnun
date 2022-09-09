@@ -1,5 +1,5 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQFYhuww8Sa_cw/feedshare-shrink_1280/0/1662755628344?e=1665619200&v=beta&t=j0InuOoEhAE3CTxv6yQEE30yQVwnbK7dPoe6wM_V0A0)
-<h1 align="center">Hi 👋, I'm Md. Anondo Biswas</h1>
+<h1 align="center">Hi 👋, I'm MD. Anondo Biswas</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="350" src="https://media-exp1.licdn.com/dms/image/C5622AQGnGIyacSlO2A/feedshare-shrink_800/0/1662755786639?e=1665619200&v=beta&t=ljG1ecsr-ZAMlh1htjBHfz3mJcUeFk4YThRF08mp90Y">
 
